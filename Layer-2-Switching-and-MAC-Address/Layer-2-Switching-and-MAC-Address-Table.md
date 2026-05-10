@@ -166,6 +166,7 @@ ping 10.0.0.1
 Display the MAC address table:
 
 <img width="716" height="333" alt="1" src="https://github.com/user-attachments/assets/a13d7f84-fdd0-4429-9ccb-5954b1028433" />
+<img width="610" height="173" alt="1 1" src="https://github.com/user-attachments/assets/d8bd699b-1e9c-4f38-bbc6-cbb75419eeec" />
 
 Other show commands:
 - show mac address-table static
