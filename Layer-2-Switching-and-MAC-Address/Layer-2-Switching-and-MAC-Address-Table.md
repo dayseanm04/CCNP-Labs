@@ -164,3 +164,5 @@ ping 10.0.0.1
 # Step 7 - View the MAC Address Table
 
 Display the MAC address table:
+
+<img width="716" height="333" alt="1" src="https://github.com/user-attachments/assets/a13d7f84-fdd0-4429-9ccb-5954b1028433" />
