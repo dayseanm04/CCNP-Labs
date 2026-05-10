@@ -63,4 +63,12 @@ Verify trunk configuration:
 
 <img width="747" height="235" alt="0" src="https://github.com/user-attachments/assets/2d2dd664-36e4-4b0c-8b4c-86306bfd1dec" />
 
+# Step 3 - Configure IP Addresses on PCs
 
+### Configure IP addresses manually on each PC.
+
+Go to:
+
+```text
+PC > Desktop > IP Configuration
+```
