@@ -127,3 +127,12 @@ encapsulation dot1Q 300
 ip address 192.168.30.1 255.255.255.0
 ```
 
+### Enable the physical interface:
+
+```bash
+interface g0/0/0
+no shutdown
+```
+
+---
+
