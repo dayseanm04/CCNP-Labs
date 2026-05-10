@@ -193,6 +193,8 @@ Set the ARP timeout to 60 seconds:
 arp timeout 60
 ```
 
+<img width="438" height="80" alt="3" src="https://github.com/user-attachments/assets/22291b3f-60d7-472e-9b79-d3f3b6881c86" />
+
 This sets the ARP cache timeout to 1 minute.
 
 ---
