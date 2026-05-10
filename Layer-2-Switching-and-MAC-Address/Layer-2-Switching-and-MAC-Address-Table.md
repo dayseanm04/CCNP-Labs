@@ -140,6 +140,8 @@ no shutdown
 
 Click on PC7 > Config > FastEthernet0 > configure MAC address or leave it
 
+<img width="738" height="350" alt="0" src="https://github.com/user-attachments/assets/428fd423-239d-4bb1-bd97-d29438ac1487" />
+
 On SW-2960, configure a static MAC address entry for PC7:
 
 ```bash
