@@ -10,13 +10,13 @@
 
 2. ### Configure IP Addresses 
 
-3. Router on a stick
+3. ### Router on a stick
 
-4. Configure a Static MAC Address for PC7 
+4. ### Configure a Static MAC Address for PC7 
 
-5. Populate the MAC Address table
+5. ### Populate the MAC Address table
 
-6. View MAC Address table
+6. ### View MAC Address table
 
 Clear the MAC-Address Table
 - Clear Dynamic Entries
