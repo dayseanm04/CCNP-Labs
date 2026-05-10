@@ -118,3 +118,12 @@ interface g0/0/0.200
 encapsulation dot1Q 200
 ip address 192.168.20.1 255.255.255.0
 ```
+
+### Configure subinterface for VLAN 300:
+
+```bash
+interface g0/0/0.300
+encapsulation dot1Q 300
+ip address 192.168.30.1 255.255.255.0
+```
+
