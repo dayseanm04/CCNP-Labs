@@ -161,6 +161,12 @@ show arp or show ip arp
 
 <img width="882" height="385" alt="1" src="https://github.com/user-attachments/assets/e3aa4911-f61b-4875-b7d3-c67d335452d5" />
 
-# Step 7 - View ARP cache timeout for Router1 G0/0/0 interface
+## Step 7 - View the ARP Cache Timeout
+
+Display interface information for G0/0/0:
+
+```bash
+show interface g0/0/0
+```
 
 <img width="762" height="238" alt="2 1" src="https://github.com/user-attachments/assets/2fa08e63-2967-443b-8db2-75455b996e2c" />
