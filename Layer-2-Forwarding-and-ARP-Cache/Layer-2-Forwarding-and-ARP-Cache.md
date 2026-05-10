@@ -170,3 +170,13 @@ show interface g0/0/0
 ```
 
 <img width="762" height="238" alt="2 1" src="https://github.com/user-attachments/assets/2fa08e63-2967-443b-8db2-75455b996e2c" />
+
+---
+
+# Step 9 - Configure ARP Cache Timeout
+
+Enter global configuration mode:
+
+```bash
+configure terminal
+```
