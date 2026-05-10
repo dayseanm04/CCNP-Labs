@@ -4,20 +4,20 @@
 
 # Objectives
 
-1. Configure VLANs
+1. **Configure VLANs**
 Configure Trunk
 Configure Allowed VLANs
 
-2. Configure IP Addresses 
+2. C**onfigure IP Addresses** 
 
-3. Router on a stick
+3. **Router on a stick**
 
-4. Configure a Static MAC Address for PC7 
+4. **Configure a Static MAC Address for PC7** 
 
-5. Populate the MAC Address table
+5. **Populate the MAC Address table**
 
-6. View MAC Address table
+6. **View MAC Address table**
 
-7. Clear the MAC-Address Table
+7. **Clear the MAC-Address Table**
   - Clear Dynamic Entries
   - Clear Static Entries
