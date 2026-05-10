@@ -1,7 +1,3 @@
-## Reference Topology
-
-<img width="644" height="509" alt="TFR" src="https://github.com/user-attachments/assets/22f68c31-f264-4fe1-9691-075c14b0272c" />
-
 # Objectives
 
 1. **Configure VLANs, Configure Trunk, Configure Allowed VLANs**
@@ -17,3 +13,7 @@
 6. **View MAC Address table**
 
 7. **Clear the MAC-Address Table, Clear Dynamic Entries, Clear Static Entries, Clear All Entries**
+
+## Reference Topology
+
+<img width="644" height="509" alt="TFR" src="https://github.com/user-attachments/assets/22f68c31-f264-4fe1-9691-075c14b0272c" />
