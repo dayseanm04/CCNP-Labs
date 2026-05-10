@@ -191,3 +191,6 @@ Clear all MAC addresses including static entries:
 clear mac address-table
 ```
 
+<img width="580" height="184" alt="3" src="https://github.com/user-attachments/assets/b86fe753-4422-4cd0-b83e-aeac53794c8e" />
+
+
