@@ -14,7 +14,7 @@ This lab demonstrates Layer 2 forwarding operations, ARP table population, ARP c
 
 ---
 
-# Step 1 - Configure VLAN Access Ports on SW-2960
+## Step 1 - Configure VLAN Access Ports on SW-2960
 
 ### Enter global configuration mode:
 
@@ -49,7 +49,7 @@ switchport access vlan 300
 
 ---
 
-# Step 2 - Configure Trunk Port on SW-2960
+## Step 2 - Configure Trunk Port on SW-2960
 
 ### Configure the uplink interface connected to the router:
 
@@ -65,7 +65,7 @@ Verify trunk configuration:
 
 <img width="747" height="235" alt="0" src="https://github.com/user-attachments/assets/2d2dd664-36e4-4b0c-8b4c-86306bfd1dec" />
 
-# Step 3 - Configure IP Addresses on PCs
+## Step 3 - Configure IP Addresses on PCs
 
 ### Configure IP addresses manually on each PC.
 
@@ -97,7 +97,7 @@ PC > Desktop > IP Configuration
 
 ---
 
-# Step 4 - Configure Router-on-a-Stick (ROAS)
+## Step 4 - Configure Router-on-a-Stick (ROAS)
 
 ### Enter global configuration mode on Router1:
 
@@ -139,7 +139,7 @@ no shutdown
 
 ---
 
-# Step 5 - Populate the ARP Table
+## Step 5 - Populate the ARP Table
 
 Generate traffic to populate the ARP table.
 
@@ -151,7 +151,7 @@ ping 192.168.10.1
 
 ---
 
-# Step 6 - View the ARP Table
+## Step 6 - View the ARP Table
 
 On Router1, display the ARP table:
 
