@@ -147,3 +147,9 @@ On SW-2960, configure a static MAC address entry for PC7:
 ```bash
 mac address-table static 2222.0DDD.2222 vlan 300 interface f0/7
 ```
+
+---
+
+# Step 6 - Populate the MAC Address Table
+
+Generate traffic to populate the MAC address table.
