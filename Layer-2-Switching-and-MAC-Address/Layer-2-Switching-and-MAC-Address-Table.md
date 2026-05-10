@@ -10,5 +10,5 @@ This lab demonstrates Layer 2 switching concepts using VLANs, trunking, Router-o
 
 ## Reference Topology
 
-<img width="644" height="509" alt="TFR" src="https://github.com/user-attachments/assets/22f68c31-f264-4fe1-9691-075c14b0272c" />
+<img width="893" height="545" alt="TFR" src="https://github.com/user-attachments/assets/16ff1518-f810-4359-9ac2-e40f0400ff54" />
 
