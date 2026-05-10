@@ -207,3 +207,6 @@ Display interface information again:
 show interface g0/0/0
 ```
 
+<img width="772" height="225" alt="4" src="https://github.com/user-attachments/assets/65a38aae-fde3-487b-89ef-60391ef99304" />
+
+
