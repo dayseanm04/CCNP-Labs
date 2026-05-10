@@ -137,6 +137,10 @@ interface g0/0/0
 no shutdown
 ```
 
+Verify subinterface configuration:
+
+<img width="829" height="191" alt="0" src="https://github.com/user-attachments/assets/871a3f39-51eb-42e1-88a0-6d82f9c72e49" />
+
 ---
 
 ## Step 5 - Populate the ARP Table
