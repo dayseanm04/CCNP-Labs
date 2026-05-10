@@ -137,5 +137,13 @@ interface g0/0/0
 no shutdown
 ```
 
+---
+
+# Step 5 - Populate the ARP Table
+
+Generate traffic to populate the ARP table.
+
+From each PC, ping the default gateway for its subnet.
+
 
 
