@@ -159,4 +159,8 @@ From each PC, ping a non-existing IP address:
 ```bash
 ping 10.0.0.1
 ```
+---
 
+# Step 7 - View the MAC Address Table
+
+Display the MAC address table:
