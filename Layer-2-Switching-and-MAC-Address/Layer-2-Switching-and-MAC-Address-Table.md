@@ -180,3 +180,14 @@ Other show commands:
 Clear only dynamically learned MAC addresses:
 
 <img width="647" height="206" alt="2" src="https://github.com/user-attachments/assets/bea32d59-d24e-495b-9522-7131cd750ea8" />
+
+---
+
+# Step 9 - Clear All MAC Address Entries
+
+Clear all MAC addresses including static entries:
+
+```bash
+clear mac address-table
+```
+
