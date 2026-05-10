@@ -136,3 +136,12 @@ no shutdown
 
 ---
 
+# Step 5 - Configure a Static MAC Address Entry
+
+Click on PC7 > Config > FastEthernet0 > configure MAC address or leave it
+
+On SW-2960, configure a static MAC address entry for PC7:
+
+```bash
+mac address-table static 2222.0DDD.2222 vlan 300 interface f0/7
+```
