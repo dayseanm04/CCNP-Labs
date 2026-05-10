@@ -145,6 +145,17 @@ Generate traffic to populate the ARP table.
 
 From each PC, ping the default gateway for its subnet. **Note: .1 of each subnet is the default gateway**
 
+```bash
+ping 192.168.10.1
+```
 
+---
 
+# Step 6 - View the ARP Table
+
+On Router1, display the ARP table:
+
+```bash
+show arp or show ip arp
+```
 
