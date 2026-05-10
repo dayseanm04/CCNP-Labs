@@ -31,3 +31,22 @@ switchport mode access
 switchport access vlan 100
 ```
 
+### Configure VLAN 200 access ports:
+
+```bash
+interface range f0/3-4
+switchport mode access
+switchport access vlan 200
+```
+
+### Configure VLAN 300 access ports:
+
+```bash
+interface range f0/5-7
+switchport mode access
+switchport access vlan 300
+```
+
+---
+
+
