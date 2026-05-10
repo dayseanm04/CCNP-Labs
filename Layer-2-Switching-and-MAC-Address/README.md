@@ -5,8 +5,8 @@
 # Objectives
 
 1. ### Configure VLANs
-- Configure Trunk
-- Configure Allowed VLANs
+  - Configure Trunk
+  - Configure Allowed VLANs
 
 2. ### Configure IP Addresses 
 
@@ -19,5 +19,5 @@
 6. ### View MAC Address table
 
 Clear the MAC-Address Table
-- Clear Dynamic Entries
-- Clear Static Entries
+  - Clear Dynamic Entries
+  - Clear Static Entries
