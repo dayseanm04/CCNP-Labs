@@ -143,7 +143,8 @@ no shutdown
 
 Generate traffic to populate the ARP table.
 
-From each PC, ping the default gateway for its subnet.
+From each PC, ping the default gateway for its subnet. **Note: .1 of each subnet is the default gateway**
+
 
 
 
