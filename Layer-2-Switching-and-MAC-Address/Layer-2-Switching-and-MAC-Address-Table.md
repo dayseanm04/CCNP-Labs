@@ -153,3 +153,10 @@ mac address-table static 2222.0DDD.2222 vlan 300 interface f0/7
 # Step 6 - Populate the MAC Address Table
 
 Generate traffic to populate the MAC address table.
+
+From each PC, ping a non-existing IP address:
+
+```bash
+ping 10.0.0.1
+```
+
