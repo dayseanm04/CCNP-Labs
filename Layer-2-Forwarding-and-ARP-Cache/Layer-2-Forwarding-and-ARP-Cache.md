@@ -94,3 +94,15 @@ PC > Desktop > IP Configuration
 | PC6 | 192.168.30.20 | 255.255.255.0 | 192.168.30.1 |
 | PC7 | 192.168.30.30 | 255.255.255.0 | 192.168.30.1 |
 
+
+---
+
+# Step 4 - Configure Router-on-a-Stick (ROAS)
+
+### Enter global configuration mode on Router1:
+
+```bash
+enable
+configure terminal
+```
+
