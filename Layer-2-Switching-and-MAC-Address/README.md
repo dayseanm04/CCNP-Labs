@@ -8,7 +8,7 @@
 - Configure Trunk
 - Configure Allowed VLANs
 
-Configure IP Addresses 
+2 ### Configure IP Addresses 
 
 Router on a stick
 
