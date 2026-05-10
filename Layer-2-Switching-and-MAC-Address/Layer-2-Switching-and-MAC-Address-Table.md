@@ -16,17 +16,26 @@ This lab demonstrates Layer 2 switching concepts using VLANs, trunking, Router-o
 
 # Step 1 - Configure VLAN Access Ports on SW-2960
 
-Enter global configuration mode:
+### Enter global configuration mode:
 
 ```bash
 enable
 configure terminal
 ```
 
-Configure VLAN 100 access ports:
+### Configure VLAN 100 access ports:
 
 ```bash
 interface range f0/1-2
 switchport mode access
 switchport access vlan 100
 ```
+
+### Configure VLAN 200 access ports:
+
+```bash
+interface range f0/3-4
+switchport mode access
+switchport access vlan 200
+```
+
