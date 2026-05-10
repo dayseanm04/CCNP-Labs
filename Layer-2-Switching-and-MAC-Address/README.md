@@ -19,5 +19,5 @@ Configure Allowed VLANs
 6. **View MAC Address table**
 
 7. **Clear the MAC-Address Table**
-  - Clear Dynamic Entries
-  - Clear Static Entries
+Clear Dynamic Entries
+Clear Static Entries
