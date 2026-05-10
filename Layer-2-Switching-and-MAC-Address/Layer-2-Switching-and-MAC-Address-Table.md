@@ -172,3 +172,10 @@ Other show commands:
 - show mac address-table static
 - show mac address-table dynamic
 - show mac address-table interface
+
+---
+
+# Step 8 - Clear Dynamic MAC Address Entries
+
+Clear only dynamically learned MAC addresses:
+
