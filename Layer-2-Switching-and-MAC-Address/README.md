@@ -8,15 +8,15 @@
 - Configure Trunk
 - Configure Allowed VLANs
 
-2 ### Configure IP Addresses 
+2. ### Configure IP Addresses 
 
-Router on a stick
+3. Router on a stick
 
-Configure a Static MAC Address for PC7 
+4. Configure a Static MAC Address for PC7 
 
-Populate the MAC Address table
+5. Populate the MAC Address table
 
-View MAC Address table
+6. View MAC Address table
 
 Clear the MAC-Address Table
 - Clear Dynamic Entries
