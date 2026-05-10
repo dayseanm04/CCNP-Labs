@@ -163,4 +163,4 @@ show arp or show ip arp
 
 # Step 7 - View ARP cache timeout for Router1 G0/0/0 interface
 
-<img width="765" height="241" alt="2" src="https://github.com/user-attachments/assets/5d501e49-c5e9-4e5a-b7bb-653c58eeba2a" />
+<img width="762" height="238" alt="2 1" src="https://github.com/user-attachments/assets/2fa08e63-2967-443b-8db2-75455b996e2c" />
