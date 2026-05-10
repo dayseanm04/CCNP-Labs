@@ -2,7 +2,7 @@
 
 1. **Configure VLANs, Configure Trunk, Configure Allowed VLANs**
 2. **Configure IP Addresses**
-3. **Router on a stick**
+3. **Configure Router on a stick**
 4. **Configure a Static MAC Address for PC7**
 5. **Populate the MAC Address table**
 6. **View MAC Address table**
