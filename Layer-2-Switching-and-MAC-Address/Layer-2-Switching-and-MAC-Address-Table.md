@@ -103,3 +103,10 @@ enable
 configure terminal
 ```
 
+### Configure subinterface for VLAN 100:
+
+```bash
+interface g0/0/0.100
+encapsulation dot1Q 100
+ip address 192.168.10.1 255.255.255.0
+```
