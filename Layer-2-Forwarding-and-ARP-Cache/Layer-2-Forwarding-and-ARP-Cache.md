@@ -180,3 +180,19 @@ Enter global configuration mode:
 ```bash
 configure terminal
 ```
+
+Enter interface configuration mode:
+
+```bash
+interface g0/0/0
+```
+
+Set the ARP timeout to 60 seconds:
+
+```bash
+arp timeout 60
+```
+
+This sets the ARP cache timeout to 1 minute.
+
+---
