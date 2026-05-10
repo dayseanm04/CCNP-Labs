@@ -177,7 +177,7 @@ show interface g0/0/0
 
 ---
 
-# Step 9 - Configure ARP Cache Timeout
+## Step 9 - Configure ARP Cache Timeout
 
 Enter global configuration mode:
 
@@ -203,7 +203,7 @@ This sets the ARP cache timeout to 1 minute.
 
 ---
 
-# Step 10 - Verify the ARP Timeout Configuration
+## Step 10 - Verify the ARP Timeout Configuration
 
 Display interface information again:
 
