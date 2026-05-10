@@ -47,5 +47,15 @@ switchport mode access
 switchport access vlan 300
 ```
 
+---
 
+# Step 2 - Configure Trunk Port on SW-2960
+
+### Configure the uplink interface connected to the router:
+
+```bash
+interface g0/1
+switchport mode trunk
+switchport trunk allowed vlan 100,200,300
+```
 
