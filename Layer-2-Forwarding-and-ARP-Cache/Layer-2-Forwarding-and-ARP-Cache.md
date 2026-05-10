@@ -198,3 +198,12 @@ arp timeout 60
 This sets the ARP cache timeout to 1 minute.
 
 ---
+
+# Step 10 - Verify the ARP Timeout Configuration
+
+Display interface information again:
+
+```bash
+show interface g0/0/0
+```
+
