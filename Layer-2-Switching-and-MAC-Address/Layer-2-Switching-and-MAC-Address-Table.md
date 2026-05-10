@@ -22,3 +22,11 @@ Enter global configuration mode:
 enable
 configure terminal
 ```
+
+Configure VLAN 100 access ports:
+
+```bash
+interface range f0/1-2
+switchport mode access
+switchport access vlan 100
+```
