@@ -11,3 +11,15 @@ This lab demonstrates Layer 2 forwarding operations, ARP table population, ARP c
 ## Reference Topology
 
 <img width="893" height="545" alt="TFR" src="https://github.com/user-attachments/assets/16ff1518-f810-4359-9ac2-e40f0400ff54" />
+
+---
+
+# Step 1 - Configure VLAN Access Ports on SW-2960
+
+### Enter global configuration mode:
+
+```bash
+enable
+configure terminal
+```
+
