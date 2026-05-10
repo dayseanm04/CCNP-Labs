@@ -4,3 +4,4 @@
 2. **Configure IP Addresses**
 3. **Configure Router on a stick**
 4. **Populate the ARP table**
+5. **View ARP table**
