@@ -15,3 +15,10 @@ This lab demonstrates Layer 2 switching concepts using VLANs, trunking, Router-o
 ---
 
 # Step 1 - Configure VLAN Access Ports on SW-2960
+
+Enter global configuration mode:
+
+```bash
+enable
+configure terminal
+```
